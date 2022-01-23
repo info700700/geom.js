@@ -4,5 +4,5 @@
 ## Installation
 
 ```bash
-npm install geom.js
+npm install @info700700/geom.js
 ```

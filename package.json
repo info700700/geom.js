@@ -1,6 +1,6 @@
 {
   "name": "@info700700/geom.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "2D geometry utils",
   "type": "module",
   "main": "index.js",

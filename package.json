@@ -7,6 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "geometry"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/info700700/geom.js.git"

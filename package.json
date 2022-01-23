@@ -1,0 +1,12 @@
+{
+  "name": "@info700700/geom",
+  "version": "1.0.8",
+  "description": "2D geometry utils",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inf",
+  "license": "ISC"
+}

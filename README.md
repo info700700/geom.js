@@ -4,5 +4,5 @@
 ## Installation
 
 ```bash
-npm install commander
+npm install geom.js
 ```
